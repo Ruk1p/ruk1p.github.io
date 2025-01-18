@@ -1,0 +1,17 @@
+:root {
+    --dark: #252C30;
+}
+
+.btn {
+    transition: .5s;
+    font-weight: 500;
+}
+
+.btn-primary,
+.btn-outline-primary:hover {
+    color: var(--light);
+}
+
+.center{
+    text-align: center;
+}
